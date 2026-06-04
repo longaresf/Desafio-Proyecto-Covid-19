@@ -58,7 +58,9 @@ Crea un archivo .env en la raíz del proyecto y añade tus credenciales (puedes 
   npm start # o npm run dev si configuraste nodemon
 
 
-✒️ Autor
+✒️ Créditos y Autoría
 
-    Francisco Longares - Desarrollador Backend - longaresf
+    Francisco Longares - Desarrollador de la Aplicación - longaresf
+
+    Este proyecto fue desarrollado como parte de las evaluaciones prácticas avanzadas del programa de formación técnica en Desafío Latam.
    
